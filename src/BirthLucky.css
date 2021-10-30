@@ -1,0 +1,26 @@
+.birthDate{
+    text-align: center;
+}
+.inputBirth{
+    width: 30%;
+    padding: 0.5rem;
+    margin: 1rem 0rem;
+}
+.inputNumber{
+    width: 30%;
+    padding: 0.5rem 0rem;
+    margin: 0.5rem 0rem;
+}
+
+.btn-clicked{
+    background: transparent;
+    background-color: #BE185D;
+    border-color: var(--primary-green);
+    border-width: medium;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+    font-size: 1rem;
+    margin-top: 2rem;
+    font-family: 'Zen Antique', serif;
+    font-weight: bold;
+}
